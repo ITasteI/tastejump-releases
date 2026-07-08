@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "tastejump",
+    "Title": "TasteJump",
+    "Developer": "Taste Games",
+    "Description": "Klettere in diesem Only-Up-Platformer durch fünf handgestaltete Welten - von der gemütlichen Wiese bis zur Sternenkrone, in stimmungsvoller Nacht-Atmosphäre mit Mondlicht, Sternen und Glühwürmchen. Drei Modi: Klassisch, Zeitrennen (20-Min-Countdown) und Endlos (5x längerer Turm). Gleiten, Bogen-Fernkampf gegen Schatten-Gegner, Geheimnisse, Errungenschaften, Foto-Modus, ein Shop mit Skins & Accessoires und Koop-Multiplayer für dich und deine Freunde.",
+    "PatchNotes": "Großes Update v3.1.0 - Drei Spielmodi voll spielbar: Klassisch (Bestzeit-Jagd), Zeitrennen mit 20-Minuten-Countdown und Endlos. Die Endlos-Welt ist jetzt 5x so lang - ein riesiger Aufstieg bis zum Gipfel auf ~1433 m mit eigener Ziel-Flagge ganz oben; Klassisch & Zeitrennen bleiben exakt wie gewohnt. 'Neues Spiel' zeigt immer wieder die komplette Modus-Auswahl. Neuer Fernkampf: Bogen & Pfeil (Mausrad ziehen, Linksklick schießen) - schwarz mit roten Akzenten, korrekt in der Hand, mit Fadenkreuz zum Zielen. Echte Schatten-Gegner mit Lebensbalken, in 2 Treffern besiegbar, mehr davon je höher du kommst. Gleiten (Leertaste halten) hat jetzt echten Nutzen: Passagen, die nur per Gleiten erreichbar sind, plus leuchtende Geheimnis-Kristalle für Extra-Münzen & Errungenschaft (Gleitschleier entfernt). Sichtbarer Zonen-Parkour - jede der fünf Welten hat eigene Färbung & eigenen Charakter. Errungenschaften jetzt auch im Spiel-Menü, neuer Foto-Modus (P) zum Freifliegen & Screenshots. Shop/Inventar öffnet mit Tab, aufgeräumtes Escape-Menü, neue Hotkey-Leiste unten (Gleiten/Extra-Sprung/Bogen/Shop). 300 Bonus-Münzen fürs Abschließen eines Laufs, Todes-Statistik, dichtere Nacht-Atmosphäre mit Aurora & Kletter-Wisps, kleine Partikel-Effekte (Landung/Doppelsprung/Dash), reduzierter Landestaub und viele Fixes.\nGroßes Update v3.0.0 - Komplette Nacht-Atmosphäre: Mondlicht als Hauptlicht, Sternenhimmel, sanfter Nebel, schwebende Glühwürmchen, blau-violettes Color-Grading & dezentes Bloom - magisch und trotzdem gut lesbar. Accessoires (Hüte/Kronen) sitzen jetzt perfekt auf dem Kopf, störende Effekte aus den Skins Schurke & Cyborg entfernt. Checkpoint-Schilder stecken nicht mehr in Plattformen. Neuer FPS-Counter im HUD + FPS-Limit (Unbegrenzt/30/60/120/144), Einstellungen aufgeräumt in Tabs (Allgemein/Anzeige/Grafik). Komplett neu gestaltetes, animiertes Menü mit schwebenden Licht-Orbs, glühendem Titel & bunten Buttons. Fairerer Fall-Puffer (du fällst weiter, bevor zurückgesetzt wird) und viele Fixes.\nv2.9.0 - Riesiges Update! Neuer animierter Charakter (echtes Humanoid-Modell statt Klumpen). Hellere, lebendige Welt. Komplett neuer, abwechslungsreicher Parkour aus vielen verschiedenen Objekten (Felsen, Riesenpilze, Statuen, Stümpfe, Kisten...) statt immer gleicher Blöcke - weitere & faire Sprünge, gerade + steile Passagen, längerer Aufstieg. Shop: tragbare Accessoires (Cap, Zylinder, Wikingerhelm, Zauberhut, Krone, Heiligenschein) statt Partikel-Effekte. Rundum erneuertes, edleres UI/HUD mit runden Ecken, überarbeitete Einstellungen. Weniger Münzen, größere Fähigkeits-Anzeige, kleineres Namensschild, viele Steuerungs-Fixes.\nv2.8.0 - Thematische Skins (Feuer/Eis/Blitz/Natur/Schatten) mit eigenem Charakter + Aura, Crash-inspirierter Parkour (Kisten, TNT, Pop-up-Spikes, mehr Mix), Post-Processing jetzt im Spiel (Bloom/ACES/Grading) + FXAA, smoothe Effekte.\nv2.7.0 - QoL: getrennte Musik/SFX-Lautstärke, visuelle Cooldown-Anzeige, Meilensteine, Live-Kosmetik-Vorschau im Shop, Steuerung-Button, kleinerer Nametag, First-Launch-Fensterfix, smoothe Effekte.\nv2.6.0 - Neuer texturierter Boden (Gras/Erde mit Normal-Map) statt flacher Farbfläche.\nv2.5.0 - Q = Extra-Sprung (20s Cooldown), ruhigeres WASD, teurere & distinktere Kosmetik, Crouch-Clipping-Fix.\nv2.4.0 - Bestzeit-Ghost: tritt gegen deinen besten Lauf an, mit Pace-Anzeige.\nv2.3.0 - Stabilität & Performance: Absturzschutz, faire Plattform-Tode, Maussensitivität, Münz-Kombo.\nv2.2.0 - Distinkte Effekte pro Kauf, Inventar scrollbar, schnellerer Download.\nv2.0.0 - Coins, Shop, Skins & Effekte, neues HUD, cozy Startbereich mit echten Bergen.\nv1.9.x - Neuer Himmel-Shader, mehr Naturvielfalt, LAN-Verbindungs-Fix.\nv1.8.0 - Komplett gestaltete Außenwelt: Täler, See, Wälder, Hintergrund-Inseln.\nv1.7.0 - 5 echte Welten, 2.5x längerer Aufstieg.",
+    "RepoOwner": "ITasteI",
+    "RepoName": "tastejump-releases",
+    "ReleaseAssetName": "Platformer3D-Windows.zip",
+    "ExeRelativePath": "Platformer3D.exe",
+    "InstallFolderName": "Game",
+    "BannerImage": "taste_jump_banner.png",
+    "IconImage": "taste_jump_app_icon.png",
+    "Status": "Available"
+  },
+  {
+    "Id": "tasteracer",
+    "Title": "Taste Racer",
+    "Developer": "Taste Games",
+    "Description": "Ein rasanter Arcade-Racer von Taste Games. Noch in Entwicklung - bald hier spielbar.",
+    "PatchNotes": "",
+    "RepoOwner": "",
+    "RepoName": "",
+    "ReleaseAssetName": "",
+    "ExeRelativePath": "",
+    "InstallFolderName": "TasteRacer",
+    "BannerImage": "",
+    "IconImage": "",
+    "Status": "ComingSoon"
+  },
+  {
+    "Id": "tastebrawl",
+    "Title": "Taste Brawl",
+    "Developer": "Taste Games",
+    "Description": "Chaotischer Party-Brawler für mehrere Spieler. In Arbeit.",
+    "PatchNotes": "",
+    "RepoOwner": "",
+    "RepoName": "",
+    "ReleaseAssetName": "",
+    "ExeRelativePath": "",
+    "InstallFolderName": "TasteBrawl",
+    "BannerImage": "",
+    "IconImage": "",
+    "Status": "ComingSoon"
+  }
+]
